@@ -1,0 +1,36 @@
+# AutoShop Pro - Professional Auto Repair Services
+
+AutoShop Pro is your trusted auto repair shop serving Henderson, NV and surrounding areas. We provide expert automotive services including brake repair, engine diagnostics, oil changes, auto body repair, and more.
+
+## Main Pages
+
+- [Home](/) - Expert auto repair services in Henderson, NV
+- [Brake Repair](/brake-repair) - Professional brake repair and replacement services
+- [Service Areas](/paradise-nv-auto-repair) - Auto repair service areas near Paradise, NV
+- [About Us](/about-us) - Learn about our team and expertise
+- [Gallery](/gallery) - View our recent auto repair work
+- [Reviews](/reviews) - Customer testimonials and reviews
+- [Contact Us](/contact) - Get in touch for a free quote
+
+## Our Services
+
+- **Brake Repair** - Complete brake inspection, pad replacement, rotor resurfacing
+- **Engine Diagnostics** - Advanced diagnostic testing and engine repair
+- **Auto Body Repair** - Collision repair, dent removal, paint matching
+- **Oil Changes** - Quick oil changes and fluid checks
+- **AC Repair** - Air conditioning service and recharge
+- **Suspension Work** - Shocks, struts, alignment services
+
+## Contact Information
+
+- **Location**: 123 Main Street, Henderson, NV 89012
+- **Phone**: (555) 123-4567
+- **Email**: info@autoshoppro.com
+- **Hours**: Mon-Fri: 8AM-6PM, Sat: 9AM-2PM, Sun: Closed
+
+## Why Choose Us
+
+- Over 15 years of experience
+- 5,000+ happy customers served
+- 100% locally owned and operated
+- Satisfaction guarantee on all work
